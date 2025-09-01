@@ -18,7 +18,7 @@ function Navbar({ onSearch }) {
     <nav className="fixed top-0 left-0 w-full bg-gray-900 p-4 border-b border-red-500 z-50">
       <div className="max-w-6xl mx-auto flex flex-col sm:flex-row items-center gap-4 sm:justify-between">
         <h2 className="text-2xl font-mono text-white flex gap-5 items-center">
-          Busca <strong>Filmes</strong>{" "}
+          <a href="/">Busca <strong> Filmes</strong>{" "}</a>
           <GiFilmProjector className="text-red-700 animate-bounce text-4xl" />
         </h2>
 
