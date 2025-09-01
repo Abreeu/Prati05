@@ -4,10 +4,11 @@ Este projeto foi desenvolvido como parte de um exercício prático das empresas 
 
 1. Você deverá criar uma aplicação em React que consuma a API do TMDB (ou OMDb) para permitir que usuários busquem filmes, vejam detalhes e montem uma lista de favoritos.
 
+## Tela Inicial
 ![Tela-Inicial](./src/assets/buscafilmesInicial.png)
 
 
-## Demostração do Layout <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Window.png" alt="Window" width="25" height="25" /> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" alt="Link" width="25" height="25" /> []()
+## Demostração do Layout Funcional <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Window.png" alt="Window" width="25" height="25" /> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" alt="Link" width="25" height="25" /> [buscafilmes-prati](https://buscafilmes-prati.vercel.app/)
 
 
 ![Tela-Funcional](./src/assets/buscafilmes.png)
